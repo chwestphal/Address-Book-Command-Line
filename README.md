@@ -4,10 +4,10 @@ This was a teamwork-project @[bbrinx](https://github.com/bbrinx).
 
 ## Preview
 <b>Insert a new conatct</b><br>
-<img src="./images/insert-new-contact.png" width="200" style="padding:50px;"><br>
+<img src="./images/insert-new-contact.png" width="300" style="padding:50px;"><br>
 
 <b>List all inserted contacts</b><br>
-<img src="./images/list-contacts.png" width="200" style="padding:50px;"><br>
+<img src="./images/list-contacts.png" width="300" style="padding:50px;"><br>
 
 <b>Add a new friend to existing contacts</b><br>
-<img src="./images/add-friend.png" width="200" style="padding:50px;">
+<img src="./images/add-friend.png" width="300" style="padding:50px;">
